@@ -43,6 +43,6 @@ train_3rd_Unbalance.csv <br/>
 
 ### ✅ Best Model & Score
 RandomForest </br>
-  * 첫번째 시도 F1socre : 0.9802
-  * 두번째 시도 F1socre : 0.9913
-  * 세번째 시도 F1socre : 0.9789
+  * 첫번째 시도 F1-score : 0.9802
+  * 두번째 시도 F1-score : 0.9913
+  * 세번째 시도 F1-score : 0.9789
