@@ -8,7 +8,7 @@ Presentation Date : 2022.06.13 </br>
 
 # Data Set 
 ### ✅ Source 
-- Data Challenge at PHM Asia Pacific 2021, Data is provided by SK telecom
+- Data Challenge at PHM Asia Pacific 2021, Data is provided by SK telecom <br/>
 https://www.kaggle.com/competitions/phmap21-classification-task/data <br/>
 csv file : <br/>
 train_1st_Bearing.csv <br/>
